@@ -64,6 +64,162 @@
       "source_location": "L103"
     },
     {
+      "id": "fetch_assign_slugs",
+      "label": "assign_slugs()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "assign_slugs()",
+      "source_file": "fetch.py",
+      "source_location": "L80"
+    },
+    {
+      "id": "fetch_dump",
+      "label": "dump()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "dump()",
+      "source_file": "fetch.py",
+      "source_location": "L161"
+    },
+    {
+      "id": "fetch_get_text",
+      "label": "get_text()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "get_text()",
+      "source_file": "fetch.py",
+      "source_location": "L36"
+    },
+    {
+      "id": "fetch_load_json",
+      "label": "load_json()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "load_json()",
+      "source_file": "fetch.py",
+      "source_location": "L105"
+    },
+    {
+      "id": "fetch_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "fetch.py",
+      "source_location": "L165"
+    },
+    {
+      "id": "fetch_parse_readme",
+      "label": "parse_readme()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "parse_readme()",
+      "source_file": "fetch.py",
+      "source_location": "L42"
+    },
+    {
+      "id": "fetch_probe",
+      "label": "probe()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "probe()",
+      "source_file": "fetch.py",
+      "source_location": "L89"
+    },
+    {
+      "id": "fetch_remember",
+      "label": "remember()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "remember()",
+      "source_file": "fetch.py",
+      "source_location": "L154"
+    },
+    {
+      "id": "fetch_seed_history",
+      "label": "seed_history()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "seed_history()",
+      "source_file": "fetch.py",
+      "source_location": "L135"
+    },
+    {
+      "id": "fetch_slugify",
+      "label": "slugify()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "slugify()",
+      "source_file": "fetch.py",
+      "source_location": "L74"
+    },
+    {
+      "id": "fetch_snapshot",
+      "label": "snapshot()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "snapshot()",
+      "source_file": "fetch.py",
+      "source_location": "L111"
+    },
+    {
+      "id": "fetch_uptime_30",
+      "label": "uptime_30()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "uptime_30()",
+      "source_file": "fetch.py",
+      "source_location": "L115"
+    },
+    {
+      "id": "fetch_vivo",
+      "label": "vivo()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "vivo()",
+      "source_file": "fetch.py",
+      "source_location": "L101"
+    },
+    {
       "id": "build",
       "label": "build.py",
       "_origin": "ast",
@@ -209,6 +365,17 @@
       "source_location": "L1"
     },
     {
+      "id": "path",
+      "label": "Path",
+      "_origin": "ast",
+      "community": 10,
+      "community_name": "fetch.py",
+      "file_type": "code",
+      "norm_label": "path",
+      "source_file": "",
+      "source_location": ""
+    },
+    {
       "id": "fetch_rationale_1",
       "label": "Escribe data/items.json. Es LO UNICO especifico de cada proyecto: reemplaza\u2026",
       "_origin": "ast",
@@ -252,6 +419,30 @@
       "node_kind": "page",
       "norm_label": "implementar.md",
       "source_file": ".cursor/agents/implementar.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "docs_decisiones",
+      "label": "DECISIONES.md",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "DECISIONES.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "decisiones.md",
+      "source_file": "docs/DECISIONES.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "docs_decisiones_decisiones",
+      "label": "Decisiones",
+      "_origin": "ast",
+      "community": 13,
+      "community_name": "DECISIONES.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "decisiones",
+      "source_file": "docs/DECISIONES.md",
       "source_location": "L1"
     },
     {
@@ -364,7 +555,7 @@
       "node_kind": "heading",
       "norm_label": "comandos utiles",
       "source_file": "PROJECT.md",
-      "source_location": "L15"
+      "source_location": "L18"
     },
     {
       "id": "project_contexto_del_proyecto",
@@ -400,7 +591,7 @@
       "node_kind": "heading",
       "norm_label": "notas para el agente",
       "source_file": "PROJECT.md",
-      "source_location": "L20"
+      "source_location": "L23"
     },
     {
       "id": "project_produccion",
@@ -424,7 +615,7 @@
       "node_kind": "heading",
       "norm_label": "stack",
       "source_file": "PROJECT.md",
-      "source_location": "L12"
+      "source_location": "L15"
     },
     {
       "id": "cursor_skills_verify_skill",
@@ -746,6 +937,7 @@
     {
       "id": "datetime",
       "label": "datetime",
+      "_origin": "semantic",
       "community": 0,
       "community_name": "build.py",
       "external": true,
@@ -757,6 +949,7 @@
     {
       "id": "html",
       "label": "html",
+      "_origin": "semantic",
       "community": 0,
       "community_name": "build.py",
       "external": true,
@@ -768,6 +961,7 @@
     {
       "id": "json",
       "label": "json",
+      "_origin": "semantic",
       "community": 0,
       "community_name": "build.py",
       "external": true,
@@ -779,6 +973,7 @@
     {
       "id": "pathlib",
       "label": "pathlib",
+      "_origin": "semantic",
       "community": 0,
       "community_name": "build.py",
       "external": true,
@@ -790,6 +985,7 @@
     {
       "id": "re",
       "label": "re",
+      "_origin": "semantic",
       "community": 0,
       "community_name": "build.py",
       "external": true,
@@ -801,6 +997,7 @@
     {
       "id": "shutil",
       "label": "shutil",
+      "_origin": "semantic",
       "community": 0,
       "community_name": "build.py",
       "external": true,
@@ -812,11 +1009,67 @@
     {
       "id": "sys",
       "label": "sys",
+      "_origin": "semantic",
       "community": 0,
       "community_name": "build.py",
       "external": true,
       "file_type": "concept",
       "norm_label": "sys",
+      "source_file": "",
+      "type": "external"
+    },
+    {
+      "id": "concurrent_futures",
+      "label": "concurrent_futures",
+      "community": 10,
+      "community_name": "fetch.py",
+      "external": true,
+      "file_type": "concept",
+      "norm_label": "concurrent_futures",
+      "source_file": "",
+      "type": "external"
+    },
+    {
+      "id": "time",
+      "label": "time",
+      "community": 10,
+      "community_name": "fetch.py",
+      "external": true,
+      "file_type": "concept",
+      "norm_label": "time",
+      "source_file": "",
+      "type": "external"
+    },
+    {
+      "id": "unicodedata",
+      "label": "unicodedata",
+      "community": 10,
+      "community_name": "fetch.py",
+      "external": true,
+      "file_type": "concept",
+      "norm_label": "unicodedata",
+      "source_file": "",
+      "type": "external"
+    },
+    {
+      "id": "urllib_error",
+      "label": "urllib_error",
+      "community": 10,
+      "community_name": "fetch.py",
+      "external": true,
+      "file_type": "concept",
+      "norm_label": "urllib_error",
+      "source_file": "",
+      "type": "external"
+    },
+    {
+      "id": "urllib_request",
+      "label": "urllib_request",
+      "community": 10,
+      "community_name": "fetch.py",
+      "external": true,
+      "file_type": "concept",
+      "norm_label": "urllib_request",
       "source_file": "",
       "type": "external"
     }
@@ -883,6 +1136,138 @@
       "weight": 1.0
     },
     {
+      "source": "fetch_assign_slugs",
+      "target": "fetch_slugify",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L83",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_main",
+      "target": "fetch_get_text",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L167",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_main",
+      "target": "fetch_parse_readme",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L172",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_main",
+      "target": "fetch_assign_slugs",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L176",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_main",
+      "target": "fetch_load_json",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L179",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_main",
+      "target": "fetch_seed_history",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L192",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_main",
+      "target": "fetch_vivo",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L211",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_main",
+      "target": "fetch_remember",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L219",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_main",
+      "target": "fetch_uptime_30",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L230",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_main",
+      "target": "fetch_dump",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L238",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_remember",
+      "target": "fetch_snapshot",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "fetch.py",
+      "source_location": "L156",
+      "weight": 1.0
+    },
+    {
       "source": "build",
       "target": "sys",
       "relation": "imports",
@@ -943,6 +1328,66 @@
       "weight": 1.0
     },
     {
+      "source": "fetch",
+      "target": "json",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "fetch.py",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "re",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "fetch.py",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "sys",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "fetch.py",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "time",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "fetch.py",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "unicodedata",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "fetch.py",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
       "source": "build",
       "target": "datetime",
       "relation": "imports_from",
@@ -964,6 +1409,90 @@
       "context": "import",
       "source_file": "build.py",
       "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "concurrent_futures",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "fetch.py",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "datetime",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "fetch.py",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "fetch.py",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "urllib_error",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "fetch.py",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "urllib_request",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "fetch.py",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_dump",
+      "target": "path",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "parameter_type",
+      "source_file": "fetch.py",
+      "source_location": "L161",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch_load_json",
+      "target": "path",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "parameter_type",
+      "source_file": "fetch.py",
+      "source_location": "L105",
       "weight": 1.0
     },
     {
@@ -1352,6 +1881,160 @@
       "weight": 1.0
     },
     {
+      "source": "docs_decisiones",
+      "target": "docs_decisiones_decisiones",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/DECISIONES.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_vivo",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L101",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_load_json",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L105",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_snapshot",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L111",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_uptime_30",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L115",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_seed_history",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L135",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_remember",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L154",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_dump",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L161",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L165",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_get_text",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_parse_readme",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_slugify",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_assign_slugs",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L80",
+      "weight": 1.0
+    },
+    {
+      "source": "fetch",
+      "target": "fetch_probe",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "fetch.py",
+      "source_location": "L89",
+      "weight": 1.0
+    },
+    {
       "source": "project",
       "target": "project_contexto_del_proyecto",
       "relation": "contains",
@@ -1370,7 +2053,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "PROJECT.md",
-      "source_location": "L12",
+      "source_location": "L15",
       "weight": 1.0
     },
     {
@@ -1381,7 +2064,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "PROJECT.md",
-      "source_location": "L15",
+      "source_location": "L18",
       "weight": 1.0
     },
     {
@@ -1392,7 +2075,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "PROJECT.md",
-      "source_location": "L20",
+      "source_location": "L23",
       "weight": 1.0
     },
     {
@@ -1471,7 +2154,20 @@
       "source_file": "fetch.py",
       "source_location": "L1",
       "weight": 1.0
+    },
+    {
+      "source": "fetch_main",
+      "target": "fetch_probe",
+      "relation": "indirect_call",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "context": "argument",
+      "source_file": "fetch.py",
+      "source_location": "L198",
+      "weight": 1.0
     }
   ],
-  "hyperedges": []
+  "hyperedges": [],
+  "built_at_commit": "2a7b44ce4df3223565f4cc5f1aa088d61801530e"
 }
