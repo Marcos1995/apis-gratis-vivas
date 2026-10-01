@@ -78,6 +78,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "No"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "No"
   }
  ],
  "fishwatch": [
@@ -183,6 +190,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "muerto",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -516,6 +530,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
@@ -2175,6 +2196,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "corpstacking": [
@@ -2271,6 +2299,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -2658,6 +2693,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -4071,6 +4113,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -5748,6 +5797,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "gridhub": [
@@ -5835,6 +5891,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "No",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "muerto",
    "autenticacion": "apiKey",
    "https": "No",
    "cors": "Unknown"
@@ -6144,6 +6207,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "filingrail": [
@@ -6204,6 +6274,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "muerto",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Yes"
@@ -7476,6 +7553,13 @@
    "autenticacion": "No",
    "https": "No",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "muerto",
+   "autenticacion": "No",
+   "https": "No",
+   "cors": "Unknown"
   }
  ],
  "krakenkeys": [
@@ -7701,12 +7785,26 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "rblxdb": [
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
@@ -7725,6 +7823,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -8763,6 +8868,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "trustydata": [
@@ -8889,6 +9001,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "bclaws": [
@@ -8994,6 +9113,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "No",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "No",
    "cors": "Unknown"
@@ -9204,6 +9330,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "fda-import-alert-screening": [
@@ -9303,6 +9436,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "localgov-jp": [
@@ -9363,6 +9503,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -9519,12 +9666,26 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "open-government-luxembourg": [
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -9552,6 +9713,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -9597,6 +9765,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
@@ -9681,12 +9856,26 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "open-government-sweden": [
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -9876,6 +10065,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -10131,6 +10327,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "lapis": [
@@ -10230,6 +10433,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "orion-health": [
@@ -10326,6 +10536,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "muerto",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
@@ -11490,6 +11707,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "apillow": [
@@ -11631,6 +11855,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "OAuth",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "OAuth",
    "https": "Yes",
    "cors": "Unknown"
@@ -11964,6 +12195,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -13182,6 +13420,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "No"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "No"
   }
  ],
  "unpaywall": [
@@ -13803,6 +14048,13 @@
    "autenticacion": "OAuth",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "muerto",
+   "autenticacion": "OAuth",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "lazada": [
@@ -13962,6 +14214,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "OAuth",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "OAuth",
    "https": "Yes",
    "cors": "Unknown"
@@ -14478,6 +14737,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "collegefootballdata-com": [
@@ -14745,6 +15011,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "muerto",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -16035,6 +16308,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "transport-for-london-england": [
@@ -16206,6 +16486,13 @@
    "autenticacion": "OAuth",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "OAuth",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "transport-rest": [
@@ -16275,6 +16562,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "OAuth",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "OAuth",
    "https": "Yes",
    "cors": "Unknown"
@@ -17124,6 +17418,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "foreca": [
@@ -17169,6 +17470,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "knmi": [
@@ -17202,6 +17510,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "User-Agent",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "vivo",
    "autenticacion": "User-Agent",
    "https": "Yes",
    "cors": "Unknown"
@@ -17400,6 +17715,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  },
+  {
+   "date": "2026-10-01",
+   "estado": "muerto",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
