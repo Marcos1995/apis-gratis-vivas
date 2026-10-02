@@ -200,6 +200,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "shibe-online": [
@@ -2227,6 +2234,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -5635,6 +5649,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "imgflip": [
@@ -8067,6 +8088,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "administrative-divisons-db": [
@@ -8154,6 +8182,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "muerto",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -9186,6 +9221,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "muerto",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "colorado-information-marketplace": [
@@ -9657,6 +9699,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "muerto",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "open-government-lithuania": [
@@ -9781,6 +9830,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
@@ -10352,6 +10408,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "muerto",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "longevity-world-cup": [
@@ -10385,6 +10448,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "muerto",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -10546,6 +10616,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "careerjet": [
@@ -10615,6 +10692,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -12637,6 +12721,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "numlookup": [
@@ -13168,6 +13259,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "launch-library-2": [
@@ -13424,6 +13522,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "No"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "muerto",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "No"
@@ -14106,6 +14211,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "muerto",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -15021,6 +15133,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "qiuxiaoce-football": [
@@ -15378,6 +15497,13 @@
   {
    "date": "2026-10-01",
    "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -16544,6 +16670,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "muerto",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -17725,6 +17858,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "world-time-weather": [
@@ -17752,6 +17892,132 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "No"
+  }
+ ],
+ "sthan-io-address-autocomplete": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "No"
+  }
+ ],
+ "agentpay-domain-lookup": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "screenshot-happy": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "No"
+  }
+ ],
+ "agentpay-doc-tools": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "contix": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "tickermint": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "No"
+  }
+ ],
+ "sthan-io-india-pin-code-autocomplete": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "No"
+  }
+ ],
+ "sthan-io-reverse-geocoding": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "No"
+  }
+ ],
+ "vibeworker": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "No"
+  }
+ ],
+ "botlero": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "football-leagues": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "moviodds": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "loremfile": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "supercrontab-mock-endpoints": [
+  {
+   "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ]
 }
