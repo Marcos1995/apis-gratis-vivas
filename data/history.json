@@ -207,6 +207,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "muerto",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "shibe-online": [
@@ -859,6 +866,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "muerto",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Yes"
@@ -2241,6 +2255,13 @@
   {
    "date": "2026-10-02",
    "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "muerto",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -5656,6 +5677,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "imgflip": [
@@ -5797,6 +5825,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "muerto",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -6635,6 +6670,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "muerto",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -8561,6 +8603,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "ipgeolocation": [
@@ -9706,6 +9755,13 @@
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
   }
  ],
  "open-government-lithuania": [
@@ -10412,6 +10468,13 @@
   {
    "date": "2026-10-02",
    "estado": "muerto",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -12728,6 +12791,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Yes"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
   }
  ],
  "numlookup": [
@@ -13532,6 +13602,13 @@
    "autenticacion": "No",
    "https": "Yes",
    "cors": "No"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "No"
   }
  ],
  "unpaywall": [
@@ -14218,6 +14295,13 @@
   {
    "date": "2026-10-02",
    "estado": "muerto",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
    "autenticacion": "apiKey",
    "https": "Yes",
    "cors": "Unknown"
@@ -15362,6 +15446,13 @@
   {
    "date": "2026-10-01",
    "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Unknown"
+  },
+  {
+   "date": "2026-10-03",
+   "estado": "muerto",
    "autenticacion": "No",
    "https": "Yes",
    "cors": "Unknown"
@@ -18014,6 +18105,177 @@
  "supercrontab-mock-endpoints": [
   {
    "date": "2026-10-02",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "bountycheck": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "index-agentica": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "scrappa": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "doccheap": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "matchwire-win": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "No"
+  }
+ ],
+ "sukuudata": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "techmap": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "the-deploy-log": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "placecall": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "No"
+  }
+ ],
+ "agent-verifier": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "No"
+  }
+ ],
+ "vpndetection": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "birkinbagstock": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "onefindme": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "fastsocial-instagram-data": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "gramscraper": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "chargealong": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "No",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "bulktranscripts": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "transcriptyt": [
+  {
+   "date": "2026-10-03",
+   "estado": "vivo",
+   "autenticacion": "apiKey",
+   "https": "Yes",
+   "cors": "Yes"
+  }
+ ],
+ "ugcdrop": [
+  {
+   "date": "2026-10-03",
    "estado": "vivo",
    "autenticacion": "No",
    "https": "Yes",
